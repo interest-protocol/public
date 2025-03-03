@@ -1,5 +1,8 @@
 {
-  "mainnet": [],
+  "mainnet": [
+    "0xf72368851fb9d28049932d845887b5a4701fdd18d9d90989c55b910933cfc453::azur::AZUR",
+    "0x80f9b6215ae18ed1a77f5d5153c4327fd48e17dbbcd12cde06b94dd2b95e3b18::moome::MOOME"
+  ],
   "testnet": [
     "0x239447089b47b8eda243f5fb6c21042cc232f92ba49651a90af0ac5ce4a2e91f::water::WATER",
     "0xf89470a5348b973f12b5fc7b4788a4c211f33e619afe4cf473de75390c6d0dc0::prime::PRIME",
