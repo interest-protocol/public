@@ -1,5 +1,5 @@
 {
-  "lastUpdateAt": 1741643745536,
+  "lastUpdateAt": 1742071141880,
   "holders": [
     {
       "owner": "0x41b6f8dc589bed99631467961c2b296732fca707db019f8882e73d633710931e",
@@ -223,6 +223,10 @@
     },
     {
       "owner": "0xe10ab0911e90b2012bd869673c2c1b9d2575bc5b560e7f7cb52e5b4d19e29d27",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe9f5959e3af8f05dc30f61a484b267da6b25f1d7ce5a936c05e46d47a99c820e",
       "isMythic": false
     },
     {
@@ -450,6 +454,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xcc09b56666b4f65c02c3730b44823d6687edc1a19c20003b05acc3beb13b4258",
+      "isMythic": false
+    },
+    {
       "owner": "0x9bd0c275e0d9cd44e18456ca4173382f1dbe72b33c1d194a3d8cc33793c098dd",
       "isMythic": false
     },
@@ -515,6 +523,10 @@
     },
     {
       "owner": "0x5f256823e90beeb215486c1063d64a31bc939348afe35b41b51b9fd6ba0870c6",
+      "isMythic": false
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
       "isMythic": false
     },
     {
@@ -986,6 +998,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xae0c746234934e45c399bb8a0222d327adc2e88104471854f10cb62e414b67e0",
+      "isMythic": false
+    },
+    {
       "owner": "0x909bbc893faa8175a6b9dd921a921f89eec07d52422889c023924b76549775ec",
       "isMythic": true
     },
@@ -1051,6 +1067,10 @@
     },
     {
       "owner": "0xd123ce9e89dcb3b64ec685927c0d78970be6f523579973fbe1f348fe75fe0a72",
+      "isMythic": false
+    },
+    {
+      "owner": "0x5068779c94770906fe73a197d01318d00aa5d8d97c2959338964dfb41872b5ac",
       "isMythic": false
     },
     {
@@ -1235,6 +1255,10 @@
     },
     {
       "owner": "0xd82c0f0be1fb4946a8fb026ebc94ae2fc4e0004dc917075c3aa3e01ae1ef41d6",
+      "isMythic": false
+    },
+    {
+      "owner": "0xcbc4f89af4c0f181b1a8d8d5421b7187b909d88be3a0c6b17a324cfe7a652f91",
       "isMythic": false
     },
     {
@@ -1482,6 +1506,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x8dd3c9c3d33f1990d926ec050c6c44d2d6b56678e86090d87b3347de94de5c0f",
+      "isMythic": false
+    },
+    {
       "owner": "0x6407388e886e2a3ecd0068e948fab1d0d5d08453b8277002736da3e278a0775b",
       "isMythic": true
     },
@@ -1563,6 +1591,10 @@
     },
     {
       "owner": "0x0c237f75c9c742677648da744e4dd146febbdd9bb69b5ff07c0c889e9718535e",
+      "isMythic": false
+    },
+    {
+      "owner": "0x37d741726f52f86383e77b818bd70cafd69a3b8de17bb06505e41a155fffcd80",
       "isMythic": false
     },
     {
@@ -1935,6 +1967,10 @@
     },
     {
       "owner": "0xc5b979d204e4805981ec2ad547b3147c0d81bb3450d89394b65ec3c48ff97027",
+      "isMythic": false
+    },
+    {
+      "owner": "0x742dc9fd66578d0dfd41f44767b8fa28b936fc7f9eee433b238b293c4961645f",
       "isMythic": false
     },
     {
@@ -3214,6 +3250,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x1661f09efd36f351757f61fd17543118709e70fba12adccabade9de075976ce5",
+      "isMythic": false
+    },
+    {
       "owner": "0xfe4be69fa0532ab4abae6e43a6c9a8a9638b69d5ba3f4d5f2b2fff53b3b891a6",
       "isMythic": false
     },
@@ -3259,6 +3299,10 @@
     },
     {
       "owner": "0xe7257f7e06980f7c971c5549c2d645562a78e4af724c52125d8a215aedac1399",
+      "isMythic": false
+    },
+    {
+      "owner": "0x3fe878a3137cb7e185412d2804569dac59ddf6f28473f32d37417543303f0f75",
       "isMythic": false
     },
     {
@@ -3930,6 +3974,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x10101c141b5cde7d86127e030e023924e17a45f52b57574c756c39dd95e0d455",
+      "isMythic": false
+    },
+    {
       "owner": "0xcf0f4ed1e7348f73f6872b4a9a1faee388e6acfccd9be7779c2c0c06215460bc",
       "isMythic": false
     },
@@ -3999,6 +4047,10 @@
     },
     {
       "owner": "0x0c00dc7541beaf40ed0f56d6a2f9517b2406984cdcc21c7050128b426cf36c76",
+      "isMythic": false
+    },
+    {
+      "owner": "0x36f0233d5a7fb378c486a1f97b3ed37fb45a10cf1b48312da3c8f914e1ae50e2",
       "isMythic": false
     },
     {
@@ -4092,6 +4144,10 @@
     {
       "owner": "0x19791b4d6a6da4ef2a0dc3498f7388afe65ba1fa3449d847906b669d73cd9bab",
       "isMythic": true
+    },
+    {
+      "owner": "0xec366bbe5c71d5a018865efdeba1cb610a981e1ddbde4cd64841717b0d550850",
+      "isMythic": false
     },
     {
       "owner": "0xe0a2a403e20f80e2002a0ad8864e133754fc78c966f3de08e965c6fc6813e65c",
@@ -4463,7 +4519,7 @@
     },
     {
       "owner": "0x018bc7602062952f44ed677c6dbcc2f0b1bf100d85b15c7c5173be38d7f81541",
-      "isMythic": false
+      "isMythic": true
     },
     {
       "owner": "0x6b70ace6dfaef6a3647945a0a33d652d8341066af0727c94e733a0d9cb06ae25",
@@ -4499,6 +4555,10 @@
     },
     {
       "owner": "0xc86cac5ef503c0f90a56234e2d1c4a31ed8861194e3255ae504d6df09d1c1cfb",
+      "isMythic": false
+    },
+    {
+      "owner": "0x89bd3d3c693cdad1920ff233532292c8fd43ed45f0eb13aecd89e55288e9ddeb",
       "isMythic": false
     },
     {
@@ -4647,6 +4707,10 @@
     },
     {
       "owner": "0x80cd341049832bf972ecc8d3df93307ea322ea9ba960feb5ee396990ac4e222a",
+      "isMythic": false
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
       "isMythic": false
     },
     {
@@ -4815,6 +4879,10 @@
     },
     {
       "owner": "0xc294c87c2dbe6496cf44a9479b50a2ee0c01cb9399729c8825b27761cb55b3cf",
+      "isMythic": false
+    },
+    {
+      "owner": "0x91b94d96e437613d2f1ee9e32de744b4ac4678328ffd77fd9f9918588e2b78b4",
       "isMythic": false
     },
     {
@@ -5050,6 +5118,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xc0778e85703579eaac76edb81cb2ff9398a59f6ae4c8375ba2868a1c7dae3daa",
+      "isMythic": false
+    },
+    {
       "owner": "0x968a8c3b634bc6d8b2a2bfb01d862b6e2275cf3cbb1a88a5679ca181d7c4a42d",
       "isMythic": false
     },
@@ -5138,6 +5210,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xa0e269b3eed3249e7d10f35122649150e8cc38eb683a18eb9a97400c3eec08d1",
+      "isMythic": false
+    },
+    {
       "owner": "0x923d24cbeec7f667259c3d7dccbb1b2641e8db0199f722d4ff719162f3fbec0e",
       "isMythic": false
     },
@@ -5183,6 +5259,10 @@
     },
     {
       "owner": "0x4978b3a06554e854bce1482c7596c549eb68238f1ee61c0747969dca6586c8ee",
+      "isMythic": false
+    },
+    {
+      "owner": "0xddd5c216084db9f25af6e67d76197946740c9856aef2e93df811bc4129df8bd6",
       "isMythic": false
     },
     {
@@ -5434,6 +5514,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xbfe58106b4935ffb9cf01410a59db578bf80c1a9329749025529e1d137c1d089",
+      "isMythic": false
+    },
+    {
       "owner": "0xf81e64ea475f33b47aec1d23aa315b84d2b7cbb3536b2cc99df138ecba44f7f4",
       "isMythic": false
     },
@@ -5467,6 +5551,10 @@
     },
     {
       "owner": "0x67894b63e9bcbca0b4a6ad9ac904145f4a04d38b1b6398c0d9222132410af2a4",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe7b75e096f4f0a76450988e298aa64d444ac0c0e251681dcc1b98a57afbcb4bf",
       "isMythic": false
     },
     {
@@ -5639,6 +5727,10 @@
     },
     {
       "owner": "0x00e28a6faa75b92e39535f70beb49b395923f09f30d8aade65e34331face96b7",
+      "isMythic": false
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
       "isMythic": false
     },
     {
@@ -6522,6 +6614,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x8e0f18c5b86c404f55c800e7d53df48156368bfacce944c57a68b9105b300233",
+      "isMythic": false
+    },
+    {
       "owner": "0x0c07bab406e42d9882e9987d954b0b6bef814bfd69c1d96cce70ab0eaf60026b",
       "isMythic": true
     },
@@ -7127,6 +7223,10 @@
     },
     {
       "owner": "0x173ee2d0a5acb9fa591651e0f95911d11c1a412554e1e0f953ab4039b0ca5156",
+      "isMythic": false
+    },
+    {
+      "owner": "0x22757a301763d1dc7ca52ab88cc0f59a65b6e3dba8561c7f37f1f03325c3c8be",
       "isMythic": false
     },
     {
@@ -7746,6 +7846,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xf75ae8c91e68e13014ec700c86579b262b5b6d66275544c14f1d317811f5cb54",
+      "isMythic": false
+    },
+    {
       "owner": "0x128b5ec71cf2b6770116aa34462088633521fbe966b588ed19e5ec18aef97c02",
       "isMythic": false
     },
@@ -7974,6 +8078,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
+      "isMythic": false
+    },
+    {
       "owner": "0xf404926f55f57894b193073b300ac83847789ab738c7c4daf5c98cb89c182d3c",
       "isMythic": false
     },
@@ -7987,6 +8095,10 @@
     },
     {
       "owner": "0x06c8275a424ca9e6a1a41aed6e19f5847671b775a63e548a8ca6f3919c8c779e",
+      "isMythic": false
+    },
+    {
+      "owner": "0xf58b325c6f58b2b6b0b7cb520d612f98c302dc9aedfebc090ed6d4defde8bbb9",
       "isMythic": false
     },
     {
@@ -8083,6 +8195,10 @@
     },
     {
       "owner": "0x5b4a240a7c56df2a961dbdeb629fa5a5a3dfdb95ea1208bc4d07cf9737dd8121",
+      "isMythic": false
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
       "isMythic": false
     },
     {
@@ -8390,6 +8506,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x78f36fe0739bd93058239db861119940d7d5d1eb9b71896cb067972eff99c711",
+      "isMythic": false
+    },
+    {
       "owner": "0xbfca1721619df8af0decc9bc204f0b2136e2a131bc70433272dde52df5c55509",
       "isMythic": true
     },
@@ -8483,6 +8603,10 @@
     },
     {
       "owner": "0x56ccf43c505b8e9ee11b6ed5e48bda815a57f3648826a1dc3d693970f044b671",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe5d4f07b9e6323997112805e2b25c43ef3c09ed5ce8222d2b2a003130f8e98fd",
       "isMythic": false
     },
     {
@@ -8914,6 +9038,10 @@
       "isMythic": true
     },
     {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
+      "isMythic": false
+    },
+    {
       "owner": "0x3f630531bdd643747ae240e167f069b3b67738ac828593a68f2aeeb8f919e35d",
       "isMythic": true
     },
@@ -9244,6 +9372,10 @@
     {
       "owner": "0xa844bf71adada515525eec39108cf789429d96a3caa18ded0f8785d54407f8e3",
       "isMythic": true
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
+      "isMythic": false
     },
     {
       "owner": "0xfc2e03dd1a28f396703dc15ca811ef9e9b795fd5869c35c7cd4dd1f1f2ae3881",
@@ -9802,6 +9934,10 @@
       "isMythic": true
     },
     {
+      "owner": "0x977eda0af004f3a72c3e1b7572a2a9df1a956b95048d59e1bb14f42b9b647ffd",
+      "isMythic": false
+    },
+    {
       "owner": "0x0d509f5915a36516a3930e757795e1f5735a8d8ebc2d80ebb670ec1bf1058399",
       "isMythic": false
     },
@@ -9951,6 +10087,10 @@
     },
     {
       "owner": "0xd3e2aeb19073b72ae7caeb2281d8904e6309439e9de8c6df14a2869871a22633",
+      "isMythic": false
+    },
+    {
+      "owner": "0xca20241d7a990efa27a8e7292d0259e227e56f49c1de1fc7fbeee0d4a13b6b53",
       "isMythic": false
     },
     {
@@ -10290,6 +10430,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x9a6bf807ee791bae06c71bf675fb83b7f9c730a7b6444db58cc580c1078b1df4",
+      "isMythic": false
+    },
+    {
       "owner": "0x72a20975be2573c0c2469a5cc2341d633ca290066016a18ea789236b76f42ec7",
       "isMythic": true
     },
@@ -10435,6 +10579,10 @@
     },
     {
       "owner": "0x2f43731e000f89511c93e8c2c68c1a05c49f1a1a8df9ee69875907d317adf291",
+      "isMythic": false
+    },
+    {
+      "owner": "0x27d518bcbc10a9ab374f7580c2d971cda4af5f93cc4ca7251d917848d5835aec",
       "isMythic": false
     },
     {
@@ -10890,6 +11038,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x444d76b28ebeb8fb5b1ad2ed51a5d7931b7a85527bbbf98df2691e49e83d3725",
+      "isMythic": false
+    },
+    {
       "owner": "0xf66cb8ce615dc2a47a3d364135d06abeae2b06dd87d3e7f1c5daee93989facb3",
       "isMythic": false
     },
@@ -11142,6 +11294,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xa0062ac347aaa71511c3d5bcd8baff6f5dd343d74c765efea3bce05624ac9833",
+      "isMythic": false
+    },
+    {
       "owner": "0xade86f9bb32ab60582c0cae89e1d5d76d4e0ac62201cc9bef782ef08f41d4428",
       "isMythic": false
     },
@@ -11159,6 +11315,10 @@
     },
     {
       "owner": "0x8180bbdc1afe5332df4879ee417a337b827f37bb08c128db87c0e2e0bceb60c6",
+      "isMythic": false
+    },
+    {
+      "owner": "0x5e73af49aeb3dcd4d38970bb3473677cf89eb044564055bd84f7fa1e653e3f1a",
       "isMythic": false
     },
     {
@@ -11350,6 +11510,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x81c9a46eb574b228a52a89399f9c27a5abb4f2e369a6a4340bcd88724b2bb1dd",
+      "isMythic": false
+    },
+    {
       "owner": "0xc13d39f0137fc606b4776218760075c3eb7cdcdf3fd18364492cde2f616354f0",
       "isMythic": true
     },
@@ -11366,6 +11530,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xbeb7d8bca52e1a6c21e795f9379dc42839ce45a73c522ea0c688f15bac8642c7",
+      "isMythic": false
+    },
+    {
       "owner": "0x84edba301eaa218a1698f3f6081b177b5d2b85b21c0b33bbf0d703a42cd48d6d",
       "isMythic": false
     },
@@ -11375,6 +11543,10 @@
     },
     {
       "owner": "0x28b9cf42ff219d821ff65afa7cdf1e04f50cd7179c19002d82e863ea56b4cfb3",
+      "isMythic": false
+    },
+    {
+      "owner": "0x8c669296eb707c49ffe1b7576395d3840fce3247739875942299c8fa660acce8",
       "isMythic": false
     },
     {
@@ -12618,6 +12790,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xef4cc3ef9ad43d533384566488c9f7b2a81588fdc33ddcc95b05c2976a045c2f",
+      "isMythic": false
+    },
+    {
       "owner": "0x602bf644fbfe7dadfb0690680d438328d315872ae5c0b5f8c0f8c1a79f0e5332",
       "isMythic": false
     },
@@ -13190,6 +13366,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x2e16285b84bbd3ec4304054497b8c4c42acbfcde9c0d1ce0c481bb736aef2d66",
+      "isMythic": false
+    },
+    {
       "owner": "0x2db99411040a024e79fff5576d43064b46dd04d29a5b27395a1ab9731df5b6ba",
       "isMythic": false
     },
@@ -13235,6 +13415,14 @@
     },
     {
       "owner": "0x5cabda3cf96d7b597514d5f90b53a68aea4eca4d153a9f193ac6b65fc27f8e94",
+      "isMythic": false
+    },
+    {
+      "owner": "0x2e85ab7314ec44dad99bf0d013ad03b1efaae0f6b31a7356feb7a8f63ff3f05f",
+      "isMythic": false
+    },
+    {
+      "owner": "0xb11c738c0963f875b613f359b8cc94101fb2239661a86c1742b144d3b2b449a4",
       "isMythic": false
     },
     {
@@ -13506,6 +13694,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x9802fcdb18365d563d15fdccac8d338076a69c72beb785e5611075135487e912",
+      "isMythic": false
+    },
+    {
       "owner": "0xfe732267df39179721819f9493a8562dea728527994c2efe79d45ab7a5a85652",
       "isMythic": false
     },
@@ -13550,6 +13742,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xae4a0dee17ec142d0031dadea7a28d93f2430a597dea9989f9232a94625bbb0a",
+      "isMythic": false
+    },
+    {
       "owner": "0x8de7626ad1bdc226dbba4796dfbdb729beb447ade81fa3b19a326cd48498b1ef",
       "isMythic": false
     },
@@ -13579,6 +13775,10 @@
     },
     {
       "owner": "0xc5b6117492ca681ed933ff9b6738a77b298fc955bd52696f33e445c48e63a0ab",
+      "isMythic": false
+    },
+    {
+      "owner": "0xf5bb05d3618d501e551bc6d6f35b60f12d178efb3a23420d86d80fe5bcee46ca",
       "isMythic": false
     },
     {
@@ -13722,6 +13922,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x096ca9bc44e4e037a160f30247d4df8ea130317033fb1526f8e8f680a8547144",
+      "isMythic": false
+    },
+    {
       "owner": "0x4b0a326bed221722c8e977ce0bba949bdf35091d6f555637837baf79a88042f2",
       "isMythic": false
     },
@@ -13763,6 +13967,10 @@
     },
     {
       "owner": "0xa5572f3d5f75c33dc0729ffc5d92142a5857fd1161e2aee89285b715a18a30ba",
+      "isMythic": false
+    },
+    {
+      "owner": "0xdd77ff8eea3da266d15feffc445c983e7d8be336ef38cf49329f1838ffaaa2e5",
       "isMythic": false
     },
     {
@@ -13987,6 +14195,10 @@
     },
     {
       "owner": "0x3c640531ef49c0d63b7da88cf4716ba4182a503e63360ed6a81b77c6f3ed3355",
+      "isMythic": false
+    },
+    {
+      "owner": "0x7a6a6e0d27371227bcd4be45d3ca1955505089005aee8ecb64212bb6e6172711",
       "isMythic": false
     },
     {
@@ -14362,6 +14574,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xb5fc1132553efafee1236628ee8b2940911acdfdf8c3e590148069dbf3f2883a",
+      "isMythic": false
+    },
+    {
       "owner": "0xeecaa5785270b76a10265fb5d271a54739082b8889b6847fdf33d349997fb245",
       "isMythic": false
     },
@@ -14456,6 +14672,10 @@
     {
       "owner": "0x55156fcb8a984883ec3ae81c6748c0ee7bce6d6fbccf67a37e2cb63d0ee88cd2",
       "isMythic": true
+    },
+    {
+      "owner": "0x76f574cab25bec4f06d5efff4b6b9ad094504c42705e9e7de362e83261b423ef",
+      "isMythic": false
     },
     {
       "owner": "0x33eeeb6dfc170d6552557871d6e49ad5e578d7f04a8bda5dcfc852ce519a40a7",
@@ -14766,6 +14986,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x22149baecd25566bb84faa2c2b4782641b7e3eed2c6b9c0aebb42e843444b369",
+      "isMythic": false
+    },
+    {
       "owner": "0x257b25c048a09395cf20c01bd92888e6023a6988250be91354242945aac8ff69",
       "isMythic": false
     },
@@ -14794,6 +15018,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xb9ad856f30f1da6f7fbe1c6a5fdb26a922da55adf7cf4b1abd6f2078daf62fdc",
+      "isMythic": false
+    },
+    {
       "owner": "0x3d8c7ee05bd6847d64f930243a854b3e832a780b566b7cf92563000f88cfa79c",
       "isMythic": true
     },
@@ -14803,6 +15031,10 @@
     },
     {
       "owner": "0x0aa9d463dc9762ba5d5745d5c449a04890a97aca9531e602432bfbc14a3afaca",
+      "isMythic": false
+    },
+    {
+      "owner": "0xbf7c1266b2e8aeda6c096362e347c3ce6910a79e019702c651ab601d0fb1e88b",
       "isMythic": false
     },
     {
@@ -14890,6 +15122,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x80cdd2026da9c3ddf6bf6db3ab480ef76985b26351bc280973092005f8415afb",
+      "isMythic": false
+    },
+    {
       "owner": "0xd03854296a964b4dbe958a54a4d7b4577954d9b21ac2d2d77f562dcb72d51956",
       "isMythic": false
     },
@@ -14955,6 +15191,10 @@
     },
     {
       "owner": "0xd4f5517865b31d865a63121c8aadf7606bbe1aa569b06b5cdef8a1dc7834423c",
+      "isMythic": false
+    },
+    {
+      "owner": "0x697c8370d8dcd5db91c219739839c82c6b4bf86ce6045716f72a2bd8404f65d9",
       "isMythic": false
     },
     {
@@ -15394,6 +15634,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xd24d01ef89d2af1d0628b084f84aa327a06f84bed2cfbfd2e39f441fe148defb",
+      "isMythic": false
+    },
+    {
       "owner": "0x29334778b96af8594b5ec0096167932a7a0e578f6778d8fcd7adf7dbd88c89b6",
       "isMythic": true
     },
@@ -15446,6 +15690,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
+      "isMythic": false
+    },
+    {
       "owner": "0xc5b37a861e7bddbe4297ec84aacda54df0e7c7b98acbc423dd7c0dc952bcfbdc",
       "isMythic": false
     },
@@ -15455,6 +15703,10 @@
     },
     {
       "owner": "0xd7fa9a2e216e37f4d0cfa179642e6e1323750bcbbd7972a91f3089cdaa3aa629",
+      "isMythic": false
+    },
+    {
+      "owner": "0x72a61cfc71107ad3cd286f2f8e7b727579385b133021942cd54054ce3bb1fbc0",
       "isMythic": false
     },
     {
@@ -15758,6 +16010,10 @@
       "isMythic": true
     },
     {
+      "owner": "0xfbb5813772e83dcfd21b466976f5b76bfe0cc2671a688d07e28ecd1843bec029",
+      "isMythic": false
+    },
+    {
       "owner": "0xee9b31e13a2ec0c48bc943412f6acfc783e6b9bcb778ce3d1aa6f372484d12ae",
       "isMythic": true
     },
@@ -16006,6 +16262,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xa62ac9a7e249c2b192b941463705780e943eb1e3e4d2fdea5b4170a10abf6b76",
+      "isMythic": false
+    },
+    {
       "owner": "0x66e9d98a003cc3f5aa7bac5c1cfae14e9af1d284181c90f0822ec27259577679",
       "isMythic": false
     },
@@ -16027,6 +16287,10 @@
     },
     {
       "owner": "0xc23981615a35837f3fe96c2394eb77a648a3417f5bbb2e856230263202d48d16",
+      "isMythic": false
+    },
+    {
+      "owner": "0xcdad812eb74311aad38926647604437a398950b181d4f37a093123b03d506ba5",
       "isMythic": false
     },
     {
@@ -16174,6 +16438,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x7233a9d1c06feb92b29c95a230e31b7263e9c7d607fbe88826a1611e2225a542",
+      "isMythic": false
+    },
+    {
       "owner": "0x84e0d1131395677c4481cb6b67e1c8cbe85ca9a64f34f56518694d5a7c4ce3fd",
       "isMythic": true
     },
@@ -16270,6 +16538,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x3186fa1c0decd6bf9a33363ccfab18c50de1299d5b02ccef4f7c2d2345b1c648",
+      "isMythic": false
+    },
+    {
       "owner": "0x7dfe1c8a85cfbdcf8877377557d0f3dd62cec95c829121218a447666dc303726",
       "isMythic": true
     },
@@ -16307,6 +16579,14 @@
     },
     {
       "owner": "0xe8cc15aec993df71ce97331c50c68dcd6b64c76a67a2a5c6837aac5b012a1943",
+      "isMythic": false
+    },
+    {
+      "owner": "0xb5d8a8702b78e962e454b67f231f4dcbd73fb3519f7ac346f743c85b3eda81e8",
+      "isMythic": false
+    },
+    {
+      "owner": "0x07f7877bec8b862bc42dab2f261d9c70f4c3d592ae77283cd3576bbb2892b712",
       "isMythic": false
     },
     {
@@ -16471,6 +16751,10 @@
     },
     {
       "owner": "0x7246176f3526eb99c2566d82a9119d381c9727c383816d4cb8097ee5c9576572",
+      "isMythic": false
+    },
+    {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
       "isMythic": false
     },
     {
@@ -16690,6 +16974,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xf1b516c6ac3d98aad22f1cced42fdf1bd94b211d3b3692906269e63db11de8e5",
+      "isMythic": false
+    },
+    {
       "owner": "0xaaf766064e0b703fc3d5ca6f8b519ee01ffabcef1d1c5c1447672b1af99330e0",
       "isMythic": false
     },
@@ -16851,6 +17139,10 @@
     },
     {
       "owner": "0x97e4325b757c930810ab27c5cf216825c75824562de382519ae8a4fbf43cfd91",
+      "isMythic": false
+    },
+    {
+      "owner": "0xd7626395e6286d9d7ca6dbd8e78fde952081017940e87741f25d3be98dea5811",
       "isMythic": false
     },
     {
@@ -17139,6 +17431,10 @@
     },
     {
       "owner": "0x4e2cb63f3d5722c9476fb5750aef313fce7ba04fe5c582103bfefb65fb0ae491",
+      "isMythic": false
+    },
+    {
+      "owner": "0x4cec53f55c454686d0e3f0814f234a7682aa1b2c710a2e3fd78e8b9caaec2b5b",
       "isMythic": false
     },
     {
@@ -17946,6 +18242,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xdfe0df27b0c4d968946cac5813f03f88493b9a138b4b1a32ccbb14e664adf6a3",
+      "isMythic": false
+    },
+    {
       "owner": "0x7ec4be739a7d08d68975ee991dd8b4f172ebc4d379d84bffd9f227e6072c129d",
       "isMythic": false
     },
@@ -18338,6 +18638,10 @@
       "isMythic": true
     },
     {
+      "owner": "0x68e2f8765ffab05ee7b883206648cb4d3b919d24a507e9c01a72bc9ea4b56a52",
+      "isMythic": false
+    },
+    {
       "owner": "0x7153c8f1d16ddb687d1b9b16dec221ae522df6cd845427adc6e332f6175103e7",
       "isMythic": false
     },
@@ -18502,6 +18806,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x8b856703177faaaa9327bd703279029dc2d99eadd2a1d7a227e4295bb0c020f9",
+      "isMythic": false
+    },
+    {
       "owner": "0x296115a90f447c1f7f78dab0850e8ba4a9d60cfb328e8fcf1302b37136244dd0",
       "isMythic": false
     },
@@ -18591,6 +18899,10 @@
     },
     {
       "owner": "0x69e0b98a366109cfb3ddeaa567c2165220765efedbd847c98305679bfaebc59e",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe6ecc352039360df4b774e91f13d27cf0e5fd5ce05eee76736a715b16de3e4a2",
       "isMythic": false
     },
     {
@@ -18707,7 +19019,7 @@
     },
     {
       "owner": "0x03d007b981f3c5f54ba24c887a8ad6c1f00a5976eede5a09a6a683299eb34446",
-      "isMythic": false
+      "isMythic": true
     },
     {
       "owner": "0x5f975179b56aafccd758e0b3e80e10fec4fad83f2920e78cdce05ab2bb4c0f2c",
@@ -19070,6 +19382,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x842e15f2b002791cf631bc33f9a1691abdc5ed41f785f1b106b71f44d751eba1",
+      "isMythic": false
+    },
+    {
       "owner": "0x6c5058ce39a81d56cc33e4427590e0b49fcb143b5c08e6a66574b2bd256697c5",
       "isMythic": false
     },
@@ -19227,6 +19543,10 @@
     },
     {
       "owner": "0x5e7f51d78e7e4e1e2d787973906df3075199b315e9b0975ebc347b82e8336ad8",
+      "isMythic": false
+    },
+    {
+      "owner": "0x2b478e283f73addb9ce947f28e232ae23e970e521bdfe5ec52197e0757b78aed",
       "isMythic": false
     },
     {
@@ -20170,6 +20490,10 @@
       "isMythic": true
     },
     {
+      "owner": "0x67db7e66246a111c8628fb50c35a0122c6429257c17f7ab5721403ee94edb0ce",
+      "isMythic": false
+    },
+    {
       "owner": "0x3b46bf5907edf12b282f65cf23a6369386571fd552149c6bc2c339cb76ddba61",
       "isMythic": false
     },
@@ -20283,6 +20607,10 @@
     },
     {
       "owner": "0x79600a4d355d872060140a3992cab217bed6f7e27878d718e370c821161a6925",
+      "isMythic": false
+    },
+    {
+      "owner": "0xa3328cbaca865eb3b2a1743a818ac591fb69dca18a636426436f55aa8c7c5d5b",
       "isMythic": false
     },
     {
@@ -20479,6 +20807,10 @@
     },
     {
       "owner": "0x0ed5ba0164870866ca824233210957505877ffd050e8c10dc8d3200400be448d",
+      "isMythic": false
+    },
+    {
+      "owner": "0xca20241d7a990efa27a8e7292d0259e227e56f49c1de1fc7fbeee0d4a13b6b53",
       "isMythic": false
     },
     {
@@ -20875,6 +21207,10 @@
     },
     {
       "owner": "0x0368e09710f1be0530de4dff5e7375ecc70a4ae4ef845ac157f30c2091864a87",
+      "isMythic": false
+    },
+    {
+      "owner": "0xfd013b6860bdd20aa113854a95daaa1318229ce70ca0b4d44df1cd53c848f20d",
       "isMythic": false
     },
     {
@@ -21358,6 +21694,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x54161f0a8d1a27f0d30ee58a06144168f2595b1a3d35b62cef59368cd431496e",
+      "isMythic": false
+    },
+    {
       "owner": "0x2969a23a782f9a3f68a07778525001dc083e52f287949a609b372906c14e0850",
       "isMythic": true
     },
@@ -21399,6 +21739,10 @@
     },
     {
       "owner": "0x95910ce6f547f03d6b2fccd3b1a82138f1ce790efeda4985edbe1a3400f7de4f",
+      "isMythic": false
+    },
+    {
+      "owner": "0xcc0fc0b34e95f55390ec61e6d98f71e11d7637c445cccb9e6807237fbc974f60",
       "isMythic": false
     },
     {
@@ -21463,6 +21807,10 @@
     },
     {
       "owner": "0x36983e852778194a81caace06d59ea1dc8365613072d92b8c24067582fb01bcc",
+      "isMythic": false
+    },
+    {
+      "owner": "0x53b9a2a7f22f488f266b81f1ad48149d1e38c3496b0f2ee65a5a3450dd71a7db",
       "isMythic": false
     },
     {
@@ -21618,6 +21966,10 @@
       "isMythic": true
     },
     {
+      "owner": "0x107deb46ebe359e3d78aa467b5307d65e111b51e6fceb4c7544ca431aefc8fa5",
+      "isMythic": false
+    },
+    {
       "owner": "0x225d9b0d6f77d8e1dd27795cb512e3d81fbad9b57e24a6ab7d3ad20734eb6008",
       "isMythic": false
     },
@@ -21655,6 +22007,10 @@
     },
     {
       "owner": "0x022da394f24883bafb0dc27c4a91317ed9309c622f620cdbc584b568d89524c7",
+      "isMythic": false
+    },
+    {
+      "owner": "0x5b558f2e24c79647dcb54365acfc5258367fd16e9b65298217bed31d1f55a159",
       "isMythic": false
     },
     {
@@ -21794,6 +22150,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x89349dd7a408182051e9b075bae99ba9b0107ad97211e31abbaf3387a325e2e7",
+      "isMythic": false
+    },
+    {
       "owner": "0x3e96b077ee8f026dbc283bc8fb0b947254687ce4142a63c66a42f70b8dfdb543",
       "isMythic": false
     },
@@ -21846,6 +22206,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x681b2fe8a8fd2b98889172c628e4734bec25584bec670100c0d1ec6d36fbcaeb",
+      "isMythic": false
+    },
+    {
       "owner": "0x680869c4b019ea48415770f523e4be2e602b13a4beba3f7c45534c54ab0b110f",
       "isMythic": true
     },
@@ -21859,6 +22223,10 @@
     },
     {
       "owner": "0x636d8393ee7af3c0a3d3fd259646829f59ad61da4f4c6bad0258524a4315f2d7",
+      "isMythic": false
+    },
+    {
+      "owner": "0x204261307f4cc351f0293717d3415a108f3e479bfbef2b05fac8b3704f49ca6e",
       "isMythic": false
     },
     {
@@ -22066,6 +22434,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x444d76b28ebeb8fb5b1ad2ed51a5d7931b7a85527bbbf98df2691e49e83d3725",
+      "isMythic": false
+    },
+    {
       "owner": "0x6e881edbce967f276deab89b73219bbe1ed695dd22e77dbb599dbfcf0597c11c",
       "isMythic": false
     },
@@ -22231,6 +22603,10 @@
     },
     {
       "owner": "0x3204783a9f24330a57801e945c0c41a4887d385e16c536506954da6537351132",
+      "isMythic": false
+    },
+    {
+      "owner": "0x821d7cd9a1d3509e7404d057d637dcb7ea0bebf8e206bb085e2fa667fa7dd4f3",
       "isMythic": false
     },
     {
@@ -22588,6 +22964,10 @@
     {
       "owner": "0xf80e97e312b903840aad5ccebe2bfd175f285c4e8e37f475a92f4e2e5398c313",
       "isMythic": true
+    },
+    {
+      "owner": "0x349331e9a74d8d4648cda91f57de1babdf626a7909b19011bc1a6523f0fceb01",
+      "isMythic": false
     },
     {
       "owner": "0xa64aab4738e4654026be0e385e0ef558e5f328ccc8fd5c260d154b0f0c32ad8c",
@@ -23506,6 +23886,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x6974f49d615382d01da70d5e66ece3514e939e7c3782d393cb1360a9ea35b282",
+      "isMythic": false
+    },
+    {
       "owner": "0x7c0a36364247ab8c7f88991ce43162577a7c6dd8c5fa38bd9d40d7d23bd45d58",
       "isMythic": false
     },
@@ -23626,6 +24010,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xfd3ac75733fe6ffab4fad0c045782ae34e0f53daddd8a91753bc4fa1f35d3b09",
+      "isMythic": false
+    },
+    {
       "owner": "0xbe12767f80f21940b3a8c993d9ba9617701c2bd6723d1c735c0be8ad74e72afb",
       "isMythic": false
     },
@@ -23670,6 +24058,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x5909213f5a1c501acfd8f1780fb2b8807b188e862726f6e5c418cc27c859af29",
+      "isMythic": false
+    },
+    {
       "owner": "0x1508d533ee6af2eb889f7ff1b92cf2b6430060236a60c6ba53846517e836eadc",
       "isMythic": false
     },
@@ -23691,6 +24083,10 @@
     },
     {
       "owner": "0xa1361c085b198f90ceaf09ccedd9ceb10775a9bdd731186fefbcae6f6df24283",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe22c702456eda4e9002241ae9b2bbfd455343e094052afb717c2aefb4a9a1855",
       "isMythic": false
     },
     {
@@ -23784,6 +24180,10 @@
     {
       "owner": "0x7be62bdf8d9cb628fa74a8441e7253d595c5d1edc909e300661ad3465c1d6957",
       "isMythic": true
+    },
+    {
+      "owner": "0xc6208ae40b1ce7576c26141af1a63342a056c73fa7f86a81c169c1223e8d034d",
+      "isMythic": false
     },
     {
       "owner": "0x799fb90bc0fbbde68ed6fe02cd49aa073e07c0a6d9d4f27175d5d0cd139755ed",
@@ -24394,11 +24794,19 @@
       "isMythic": false
     },
     {
+      "owner": "0x090ce79ce98bd9199818a59c264c150458fab848c9a35d5498fb122df1260f1e",
+      "isMythic": false
+    },
+    {
       "owner": "0x463729a301c37191529218b14541160a9903c3efc044b737dd2f4c33486c3c40",
       "isMythic": false
     },
     {
       "owner": "0xa6dc368d8b78e8c3bfb45b942a12fbb5415a5d0799934f96b73d9340961ef29c",
+      "isMythic": false
+    },
+    {
+      "owner": "0x7c8f2a3290586b95e347d72d5e12c1d7d9db39411127645d1a6c04365abd483e",
       "isMythic": false
     },
     {
@@ -24766,6 +25174,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x16ead952529d1efd4d945399682e22a1f3870aa26555e517950f095a9b0ea82d",
+      "isMythic": false
+    },
+    {
       "owner": "0xdac47da4172d8ed41bf6fe959a5f17ab99550e5e00763b17c5c16c91da849d8c",
       "isMythic": false
     },
@@ -24807,6 +25219,10 @@
     },
     {
       "owner": "0xf0419c6dd4af6e223c9b4c744625904fc5925c76e3e88d1967863b52a528a08d",
+      "isMythic": false
+    },
+    {
+      "owner": "0x7fd316027ba09239590e85bfab8835b5a5f029805bb938a4ee10de5ceb0ae98e",
       "isMythic": false
     },
     {
@@ -25278,6 +25694,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xcc4c8d2ac27668d4dc21f7326b69b2ead43c1aeae1e98fe0d4f20ae2a3b6fc76",
+      "isMythic": false
+    },
+    {
       "owner": "0xc476967f70f01adfdede62bbcf92ec084e7b2b4ed75638a3f3e445b47887b439",
       "isMythic": false
     },
@@ -25323,6 +25743,10 @@
     },
     {
       "owner": "0x0e48180b47169348605ffa109be5ebf276ffdcdda30649ed562088b03fb80acf",
+      "isMythic": false
+    },
+    {
+      "owner": "0x2ba68ed560fdab7ae5a54bf5faf0e59ab90d2b16ab3d10b4d66c31e381812e2e",
       "isMythic": false
     },
     {
@@ -25379,6 +25803,10 @@
     },
     {
       "owner": "0xadaa4a97325f9fb949e137d7cd95f19db3d9db4f6906775aa8c5625c78804f66",
+      "isMythic": false
+    },
+    {
+      "owner": "0xbf81f651bcd2edf6fa4a94e1332b0265933a24306d2f93efc755d8bf38540d8a",
       "isMythic": false
     },
     {
@@ -25554,8 +25982,12 @@
       "isMythic": false
     },
     {
-      "owner": "0xb328563b6af74487f02f0c948a0eab43a2a56065de17ddd886cd4e97507228c5",
+      "owner": "0x89a053703e01c2ac4e9eaaf5aa6363d56edd1469293fcfca19079ce4329a3739",
       "isMythic": false
+    },
+    {
+      "owner": "0xb328563b6af74487f02f0c948a0eab43a2a56065de17ddd886cd4e97507228c5",
+      "isMythic": true
     },
     {
       "owner": "0xff84e9efb45d5dc6e45166cd1019435be87204fbab07e16cb396f8fd600067f3",
@@ -25879,6 +26311,10 @@
     },
     {
       "owner": "0xdc81f6c30ce82fabf8bf6adf56c44db3c64f4982f45aeae664abe39dfe9316e4",
+      "isMythic": false
+    },
+    {
+      "owner": "0x42b6522811972cf789fd14822f3d06f8edd2c6f64fc46f0bab4b62035c8e22e0",
       "isMythic": false
     },
     {
@@ -26543,6 +26979,10 @@
     },
     {
       "owner": "0x22bf5d52d623a5917d87c73ad1a4f04847343e2b9d86f87f71397bbf0d886504",
+      "isMythic": false
+    },
+    {
+      "owner": "0x22b89bec72ab7e3d115a74df65a8a49dc35cd9409286fd36fdff6fa69b749de5",
       "isMythic": false
     },
     {
@@ -27670,6 +28110,10 @@
       "isMythic": false
     },
     {
+      "owner": "0x2444d185abc79caca55f4bf9fdffc08237f0b4df0e076ceff1bb5bbe0ba1c325",
+      "isMythic": false
+    },
+    {
       "owner": "0xb7d67d0c72dcd18c8d24c8fed6beaf368fe643b31ac797331b15042579aaaac7",
       "isMythic": false
     },
@@ -28023,7 +28467,7 @@
     },
     {
       "owner": "0xafdcecb57ba553dd2b8c0346eedf94f47d26a41712722f62b0ea4329f197c549",
-      "isMythic": false
+      "isMythic": true
     },
     {
       "owner": "0xcd4d6d02bb9807c26cf59526549519c48ba16639276613c4009d27e405906680",
@@ -28203,6 +28647,10 @@
     },
     {
       "owner": "0xdac98571604e6fcb4d3f47f091335103b48eea713cc2dfc06703d2f8a298f43d",
+      "isMythic": false
+    },
+    {
+      "owner": "0x965a3ae2016949613a318013485d9acbd6239b6a0c230ae734fb47723e714534",
       "isMythic": false
     },
     {
@@ -28706,6 +29154,10 @@
       "isMythic": false
     },
     {
+      "owner": "0xbbfca23f53e6f7510a76bebd301fce2c203abc2aa6c53bc88e1544bec5b3ba0f",
+      "isMythic": false
+    },
+    {
       "owner": "0x4d967132ca3a0ecd104ce0a412a11f6278cd6075f0f5bb4943e77a7035a8c756",
       "isMythic": false
     },
@@ -28747,6 +29199,10 @@
     },
     {
       "owner": "0xa234305c69ffe0a518212f829d559087cf2668a931c5513180c348607a3ff8ac",
+      "isMythic": false
+    },
+    {
+      "owner": "0x747a696396f6cd459138d24e5d336891d424a4f2bf83ccd40096a08d5af22af0",
       "isMythic": false
     },
     {
@@ -28800,6 +29256,10 @@
     {
       "owner": "0x0e9b6f0848d20a81b6266f6c175ff49d0c3ccb08371372077a90d0dbcca52105",
       "isMythic": true
+    },
+    {
+      "owner": "0x3c302ba9647f55fccecdf2524f5768d030c1189e49d3b2e4ee6d0931bf321881",
+      "isMythic": false
     },
     {
       "owner": "0xd7a0a78eadaa6e6f7f1bd1f472e9f6179fe1cc3c1fab9a651700537792efac12",
@@ -28904,6 +29364,10 @@
     {
       "owner": "0x87044eb8ae3f3ae064f6939e72a23f4f9baba2ffbe2184dc6a2010d273a0177a",
       "isMythic": true
+    },
+    {
+      "owner": "0xf2b70924a989fe6a0da5a029cc21a7bb6769c7c32f720550ebcb1213442ee339",
+      "isMythic": false
     },
     {
       "owner": "0x926858832a4ed411283a514a5282087a2bb234291cd1c6c5260c37f5af94bc62",
@@ -29038,11 +29502,19 @@
       "isMythic": true
     },
     {
+      "owner": "0xeff9affd939b169761e1a68b108ea5fc0f6889f2de98d0a8a112befdbcfe3003",
+      "isMythic": false
+    },
+    {
       "owner": "0xa8e6a618e0a295b794abe02a4691d603ea3c96e7444531bb10431966ddeef310",
       "isMythic": true
     },
     {
       "owner": "0x01437affa53303b48980375b1a6e398d9f186232451c43d1cc87dca0ff859502",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe6ecc352039360df4b774e91f13d27cf0e5fd5ce05eee76736a715b16de3e4a2",
       "isMythic": false
     },
     {
@@ -29311,6 +29783,10 @@
     },
     {
       "owner": "0x85aa2b9bf4c43c3ab8c2171e44496f33666925db4dba427a34a6c04a90ea8cb6",
+      "isMythic": false
+    },
+    {
+      "owner": "0xe07a07c6bea24e962e246037ba2db061b2270603028b7b2648c902db359ffaeb",
       "isMythic": false
     },
     {
@@ -30186,11 +30662,19 @@
       "isMythic": false
     },
     {
+      "owner": "0xe6ecc352039360df4b774e91f13d27cf0e5fd5ce05eee76736a715b16de3e4a2",
+      "isMythic": false
+    },
+    {
       "owner": "0x1e9fd44e7b3b1ed5d4fd07a50cfdd0370a30a56d92c551710faf070da349019f",
       "isMythic": false
     },
     {
       "owner": "0x9fa26ccf468e2678803ce022464bb216e21fd8dc36f608cd6eab46aa5a796636",
+      "isMythic": false
+    },
+    {
+      "owner": "0xf5b6b3526dcbeee12ba32bf00fb58d2f01ebeb7f87928639bdd31c7832bdbda6",
       "isMythic": false
     },
     {
@@ -30947,6 +31431,10 @@
     },
     {
       "owner": "0x8cb7bb7f4e782b86c8037484f8d7396991e786358942db1a5d1721602c696f14",
+      "isMythic": false
+    },
+    {
+      "owner": "0xcc73cdfb1281a85e1a588b094a57fda71ea2f513afddbd54d1d711f576e13ee3",
       "isMythic": false
     },
     {
