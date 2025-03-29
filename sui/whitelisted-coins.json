@@ -1,5 +1,6 @@
 {
   "mainnet": [
+    "0xf00eb7ab086967a33c04a853ad960e5c6b0955ef5a47d50b376d83856dc1215e::axol::AXOL",
     "0xf72368851fb9d28049932d845887b5a4701fdd18d9d90989c55b910933cfc453::azur::AZUR",
     "0x80f9b6215ae18ed1a77f5d5153c4327fd48e17dbbcd12cde06b94dd2b95e3b18::moome::MOOME"
   ],
